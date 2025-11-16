@@ -28,9 +28,11 @@ F1 (Real)	: 0.99
 F1 (Fake)	: 0.99
 Test Images	20,000
 
-Confusion matrix
+Confusion matrix:
+
 <img width="421" height="331" alt="image" src="https://github.com/user-attachments/assets/1e0575b6-289e-46b8-a05b-76657700f661" />
 
 GradCAM Examples:
+
 <img width="466" height="442" alt="image" src="https://github.com/user-attachments/assets/a1de0ce8-d452-4415-8a85-2c62a540157f" />
 
