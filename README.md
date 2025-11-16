@@ -11,7 +11,8 @@ Trained on 120,000 images from diverse sources (MidJourney/SDXL/DALLE/camera pho
 - GPU for fast inference
 - Clean training pipeline optimized for Windows + CUDA
 
-🚀 Features
+🚀 Features:
+
 -Detects AI-generated vs real images
 -Lightweight and efficient EfficientNet-B0 backbone
 -Trained on 120,000 images (balanced)
