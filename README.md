@@ -13,13 +13,19 @@ Trained on 120,000 images from diverse sources (MidJourney/SDXL/DALLE/camera pho
 
 🚀 Features:
 
--Detects AI-generated vs real images
--Lightweight and efficient EfficientNet-B0 backbone
--Trained on 120,000 images (balanced)
--CUDA-optimized PyTorch training pipeline
--High accuracy & robust performance
--Grad-CAM explainability for visualizing model decisions
--Confusion matrix + classification report included
+Detects AI-generated vs real images
+
+Lightweight and efficient EfficientNet-B0 backbone
+
+Trained on 120,000 images (balanced)
+
+CUDA-optimized PyTorch training pipeline
+
+High accuracy & robust performance
+
+Grad-CAM explainability for visualizing model decisions
+
+Confusion matrix + classification report included
 
 📊 Results
 Accuracy	98.5%
